@@ -1856,3 +1856,387 @@ Received Import Request.
 Start importing Assets/TrabalhoIndividual/Mats&Shaders/Car.mat using Guid(e70ffe9f33028472fa47e7cddd85ff21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a662643cc44907c949a92649d3d71922') in 0.601465 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 258.926441 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85525e8bfccfffe4ff02d6f4b1b0699') in 0.234653 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 170.554738 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36fe9e741c548099dc8861021efa21fd') in 0.208645 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 8.655603 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714beff3753a7b7753e9267f47822134') in 0.212389 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 20.788793 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c4d980cb06dc0224dea0ba651d2614') in 0.246853 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 130.691690 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b91d217f86cd70a0c949578afce5bed') in 0.257430 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.538586 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ea7e4de8bea676353229a3e2a79ad2') in 0.277595 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.614 seconds
+Refreshing native plugins compatible for Editor in 2.61 ms, found 0 plugins.
+Native extension for LinuxStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.265 seconds
+Domain Reload Profiling: 1878ms
+	BeginReloadAssembly (195ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (61ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (292ms)
+		LoadAssemblies (359ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (21ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1266ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (686ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (102ms)
+			ProcessInitializeOnLoadAttributes (516ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 2.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3079 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3706.
+Memory consumption went from 175.1 MB to 175.0 MB.
+Total: 5.346794 ms (FindLiveObjects: 0.305538 ms CreateObjectMapping: 0.179542 ms MarkObjects: 4.783602 ms  DeleteObjects: 0.076319 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: efbeaf2078ee4010e9a0b7bd6667f9dd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 2f0ff77a95e0ac474e3e8eeba4e2f7cb -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 220.110716 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4934353d5a95a068bfdc95ca96226e85') in 0.314021 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 28.947393 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cdcf6ca86d9b441299ed206ce860712') in 0.260466 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 5.780395 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa2088970ac9d2e13c1b3cabd84e4f7') in 0.255274 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.958990 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e314367546c34140e6b51809925e3ecc') in 0.276316 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 112.187991 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fd996ae73360b1392769088ae789486') in 0.083657 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 9.080466 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d602eebb3dd0f41c36235720cc7d00') in 0.259413 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 23.567411 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd85dafc829356f665339e1e62a8238d') in 0.007767 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.270986 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e21999e7d07c72dcf8c221a2e5720e2') in 0.006563 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 10.247978 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df7654e5e2836ab51d635b00613ac3e') in 0.253858 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 21.762644 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42fb19a4a657dc6f9ac7d3983e719ce') in 0.243654 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 15.433749 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '150aba6a280ce6309a24109180d26186') in 0.268682 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.654 seconds
+Refreshing native plugins compatible for Editor in 2.80 ms, found 0 plugins.
+Native extension for LinuxStandalone target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.289 seconds
+Domain Reload Profiling: 1942ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (53ms)
+	RebuildCommonClasses (67ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (330ms)
+		LoadAssemblies (390ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1290ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (683ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (99ms)
+			ProcessInitializeOnLoadAttributes (516ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 3.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3079 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3709.
+Memory consumption went from 177.0 MB to 176.9 MB.
+Total: 7.268263 ms (FindLiveObjects: 0.360724 ms CreateObjectMapping: 0.179834 ms MarkObjects: 6.646203 ms  DeleteObjects: 0.079673 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: efbeaf2078ee4010e9a0b7bd6667f9dd -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 2f0ff77a95e0ac474e3e8eeba4e2f7cb -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 65.433592 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1027f5aa07a68b82a33ed41af9cfe152') in 0.395609 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 10.174960 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9284d1ef28baa24daf1dd5d0cfd9fe5') in 0.242069 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 73.845105 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49505304f8f72815263b768c58084fab') in 0.105663 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.211836 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b0f217a9b532feb9a86152c113ff449') in 0.100132 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 27.570342 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '579949b7d69d06665a8e4c2fb923f224') in 0.261474 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 74.141007 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72d9ad5282095152dc4433968548a8f') in 0.007247 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 6.957005 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43a460a462e1665f4b18c5feef76701c') in 0.010458 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 8.667890 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc58704e20716b2bb4a72c2d89d39ef0') in 0.008183 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 8.048377 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9f716fe3d71e90ebd64fc28e3b0534') in 0.138304 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 19.822827 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba674001e7543bbe6d428ce608b96a2') in 0.006268 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 11.805316 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396badd6d7ee8756dd8dbad7fca6bc0a') in 0.204404 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 4.594560 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6c927dea412d0bd17f6fc3b278c651') in 0.007385 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 18.510309 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b08c00b2c7682fec61278b3a31b10c0') in 0.219861 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 50.955756 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1905ee386244d7a55045346b4b3c240') in 0.240188 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 75.649710 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat
+  artifactKey: Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9978c87d3772012ff6b31f900ebff3') in 0.230081 seconds
+Number of updated asset objects reloaded before import = 1
+Number of asset objects unloaded after import = 1

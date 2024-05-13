@@ -4,7 +4,6 @@ Shader "Custom/Chao"{
     }
 
     SubShader{
-        Tags { "Queue"="Transparent" "RenderType"="Transparent" }
         Cull off
         CGPROGRAM
         #pragma surface surf Lambert alpha
@@ -19,8 +18,7 @@ Shader "Custom/Chao"{
 
 
         void surf(Input IN, inout SurfaceOutput o){
-            float3 lightDir = normalize(_WorldSpaceLightPos0 - IN.worldPos);
-            float intensity = max(0, dot(IN.worldNormal, lightDir));
+            float intensity = max(0, dot(IN.worldNormal, _WorldSpaceLightPos0.xyz));
             o.Albedo = _LightColor0;
             o.Alpha = intensity * _LightColor0.a;
         }
