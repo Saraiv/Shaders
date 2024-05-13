@@ -2240,3 +2240,51 @@ Received Import Request.
 Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.mat using Guid(efc34edd0055bb9f6a8e8d48e00bd76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9978c87d3772012ff6b31f900ebff3') in 0.230081 seconds
 Number of updated asset objects reloaded before import = 1
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 611.342995 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Chao.shader
+  artifactKey: Guid(d3b677e0077a136d7a2ede102c751c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Chao.shader using Guid(d3b677e0077a136d7a2ede102c751c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b19554c02072ba2ea94c53850047ac6') in 0.000796 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.051138 seconds.
+  path: Assets/TrabalhoIndividual/round_pillar_base/round_pillar_base.glb
+  artifactKey: Guid(c7971a43b2e31fb39b53b6a1bc128534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/round_pillar_base/round_pillar_base.glb using Guid(c7971a43b2e31fb39b53b6a1bc128534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a431d4e70ea8989bb56602ae948b9073') in 0.001103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.008115 seconds.
+  path: Assets/TrabalhoIndividual/Trabalho.unity
+  artifactKey: Guid(57bc598b77e82c03bbecc501afb80f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Trabalho.unity using Guid(57bc598b77e82c03bbecc501afb80f15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eafe9069a46488f384bcf3e506196a09') in 0.000479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.002855 seconds.
+  path: Assets/TrabalhoIndividual/Trabalho_individual.pdf
+  artifactKey: Guid(5cd7f78ef2e7b777eb41696422f557d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Trabalho_individual.pdf using Guid(5cd7f78ef2e7b777eb41696422f557d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d83f14988fb955f29eb36f85cb4a1a5') in 0.000965 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.081659 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Car.shader
+  artifactKey: Guid(56ce512f613f80290b3d7062227ccb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Car.shader using Guid(56ce512f613f80290b3d7062227ccb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8070aa1e218c61cc408be8be6fb8096e') in 0.000662 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.001709 seconds.
+  path: Assets/TrabalhoIndividual/Mats&Shaders/Tanque.shader
+  artifactKey: Guid(e2e73a812dc5603dfa4843ed5859b18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TrabalhoIndividual/Mats&Shaders/Tanque.shader using Guid(e2e73a812dc5603dfa4843ed5859b18e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f368e9655ba58f32a6b633ffeb7c2f4') in 0.000590 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
