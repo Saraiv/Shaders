@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/SurfaceShader/Scripts/ChangeColor.cs" />
+    <Compile Include="Assets/TrabalhoIndividual/Mats&amp;Shaders/Car.cs" />
     <Compile Include="Assets/SurfaceShader/Scripts/Temple.cs" />
     <Compile Include="Assets/SurfaceShader/IsPlayerMoving.cs" />
     <Compile Include="Assets/SurfaceShader/playerMovement.cs" />
@@ -83,7 +84,7 @@
     <None Include="Assets/SurfaceShader/Luzes/Blinn.shader" />
     <None Include="Assets/SurfaceShader/Shaders/Caenca.shader" />
     <None Include="Assets/SurfaceShader/Luzes/ToonShader.shader" />
-    <None Include="Assets/TrabalhoIndividual/Mats&amp;Shaders/CarShader.shader" />
+    <None Include="Assets/TrabalhoIndividual/Mats&amp;Shaders/Car.shader" />
     <None Include="Assets/SurfaceShader/Temple/license.txt" />
     <None Include="Assets/SurfaceShader/Luzes/MyLambert.shader" />
     <None Include="Assets/SurfaceShader/Parede/Parede.shader" />
