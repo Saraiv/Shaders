@@ -342,6 +342,7 @@ GameObject:
   - component: {fileID: 421042373}
   - component: {fileID: 421042372}
   - component: {fileID: 421042371}
+  - component: {fileID: 421042375}
   m_Layer: 0
   m_Name: Car
   m_TagString: Untagged
@@ -384,7 +385,7 @@ MeshRenderer:
   m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
+  m_ReflectionProbeUsage: 0
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
@@ -435,6 +436,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &421042375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 421042370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5548cdf474bf8cd3a95982dd3102ecc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  carMaterial: {fileID: 2100000, guid: e70ffe9f33028472fa47e7cddd85ff21, type: 2}
+  probe: {fileID: 447467030}
 --- !u!1 &447467029
 GameObject:
   m_ObjectHideFlags: 0
@@ -464,12 +479,12 @@ ReflectionProbe:
   m_Type: 0
   m_Mode: 1
   m_RefreshMode: 1
-  m_TimeSlicingMode: 0
+  m_TimeSlicingMode: 2
   m_Resolution: 128
   m_UpdateFrequency: 0
   m_BoxSize: {x: 10, y: 10, z: 10}
   m_BoxOffset: {x: 0, y: 0, z: 0}
-  m_NearClip: 0.01
+  m_NearClip: 1
   m_FarClip: 1000
   m_ShadowDistance: 100
   m_ClearFlags: 1

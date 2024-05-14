@@ -61,7 +61,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _cubeMap:
-        m_Texture: {fileID: 8900000, guid: ff6de78a373e55d00b38ee5f8f956b72, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 0, y: 0}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
