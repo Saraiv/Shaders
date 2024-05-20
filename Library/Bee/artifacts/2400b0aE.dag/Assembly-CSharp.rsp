@@ -352,6 +352,7 @@
 "Assets/SurfaceShader/Scripts/Temple.cs"
 "Assets/SurfaceShader/playerMovement.cs"
 "Assets/TrabalhoIndividual/Mats&Shaders/Car.cs"
+"Assets/Vertex & Frag/PostProcessing.cs"
 -langversion:9.0
 
 /deterministic
