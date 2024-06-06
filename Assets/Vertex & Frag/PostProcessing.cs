@@ -11,14 +11,12 @@ public class PostProcessing : MonoBehaviour{
         if (Input.GetButton("Fire1"))
         {
             Vector3 mousePos = Input.mousePosition;
-            //mousePos.x = mousePos.x ;
-            //mousePos.y = mousePos.y ;
             mat.SetVector("_Centro", mousePos);
-            {
-                Debug.Log("x" + mousePos.x);
-                Debug.Log("y" + mousePos.y);
-
-            }
+        }
+        if (Input.GetButton("Fire2"))
+        {
+            Vector3 mousePos = Input.mousePosition;
+            mat.SetVector("_Centro2", mousePos);
         }
 
     }

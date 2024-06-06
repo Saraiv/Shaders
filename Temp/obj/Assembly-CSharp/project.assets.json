@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "/home/tiago/.nuget/packages/": {}
+    "C:\\Users\\mains\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tiago/Documents/Projects/Shaders/Assembly-CSharp.csproj",
+      "projectUniqueName": "c:\\Users\\mains\\Documents\\Shaders\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "/home/tiago/Documents/Projects/Shaders/Assembly-CSharp.csproj",
-      "packagesPath": "/home/tiago/.nuget/packages/",
-      "outputPath": "/home/tiago/Documents/Projects/Shaders/Temp/obj//Assembly-CSharp/",
+      "projectPath": "c:\\Users\\mains\\Documents\\Shaders\\Assembly-CSharp.csproj",
+      "packagesPath": "C:\\Users\\mains\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\mains\\Documents\\Shaders\\Temp\\obj\\\\Assembly-CSharp\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tiago/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mains\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,7 +59,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.104/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

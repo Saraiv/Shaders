@@ -12,7 +12,9 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords: []
+  m_InvalidKeywords:
+  - _DESENHA_ON
+  - _LINHA_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -28,6 +30,14 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
-    m_Colors: []
+    m_Floats:
+    - _Desenha: 1
+    - _Inverter: 0
+    - _Linha: 1
+    - _Range: 0
+    m_Colors:
+    - _Cor: {r: 0.17744325, g: 0.972549, b: 0, a: 1}
+    - _PointOne: {r: 0.33415535, g: 0.625, b: 0, a: 0}
+    - _PointThree: {r: 0.58323056, g: 0.17982456, b: 0, a: 0}
+    - _PointTwo: {r: 0.7262639, g: 0.5964912, b: 0, a: 0}
   m_BuildTextureStacks: []

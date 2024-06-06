@@ -5,6 +5,10 @@ Shader "Hidden/estudo_pos"
         _MainTex ("Texture", 2D) = "white" {}
         _Slider("slider", Range(0,960)) = 0
         _Centro("Centro", Vector) = (0,0,0,0)
+        _Centro2("Centro2", Vector) = (0,0,0,0)
+        _Cor("Cor", Color) = (1,1,1,1)
+        _Cor2("Cor2", Color) = (1,1,1,1)
+        [Toggle] _Inverter("Inverter", Int) = 0
     }
     SubShader
     {
@@ -43,6 +47,10 @@ Shader "Hidden/estudo_pos"
             float4 _MainTex_TexelSize;
             float _Slider;
             float2 _Centro;
+            float2 _Centro2;
+            half4 _Cor;
+            half4 _Cor2;
+            int _Inverter;
 
             int isInsideSquare(float2 center, float lado, float2 ponto){
            
@@ -66,10 +74,21 @@ Shader "Hidden/estudo_pos"
                    // return 1- col;
                 }
                 _Centro.y = _ScreenParams.y - _Centro.y;
+                _Centro2.y = _ScreenParams.y - _Centro2.y;
+                if(isInsideSquare( _Centro2, _Slider / 2, i.vertex.xy) && isInsideSquare( _Centro, _Slider, i.vertex.xy) && _Inverter == 1){
+                    return (1 - _Cor2) * (1 - _Cor);
+                }
+
+                if(isInsideSquare( _Centro2, _Slider / 2, i.vertex.xy)){
+                    return _Cor2;
+                }
 
                 if(isInsideSquare( _Centro, _Slider, i.vertex.xy)){
-                    return 1- col;
+                    return _Cor;
                 }
+
+                
+                
 
                 return col;
             }

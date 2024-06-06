@@ -12,7 +12,8 @@ Material:
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords: []
+  m_InvalidKeywords:
+  - _INVERTER_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -29,7 +30,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Slider: 182
+    - _Inverter: 1
+    - _Slider: 133
     m_Colors:
-    - _Centro: {r: 246, g: 230.5, b: 0, a: 0}
+    - _Centro: {r: 240, g: 484, b: 0, a: 0}
+    - _Centro2: {r: 463, g: 134, b: 0, a: 0}
+    - _Cor: {r: 0.9528302, g: 0.86656904, b: 0.27416337, a: 1}
+    - _Cor2: {r: 1, g: 0.01938591, b: 0, a: 1}
   m_BuildTextureStacks: []
