@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Vertex & Frag/PostProcessing.unity
+- path: Assets/Teste/Teste.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
